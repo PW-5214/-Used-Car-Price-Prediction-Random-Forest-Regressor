@@ -53,7 +53,7 @@ jupyter notebook "Random Forest Regressor(Used car).ipynb"
 
 ## 🧠 Author
 
-Developed by [Your Name] for learning and demonstration of ensemble regression.
+Developed by Prathmesh Wavhal for learning and demonstration of ensemble regression.
 
 ---
 
